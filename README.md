@@ -18,4 +18,4 @@ A lightweight, high-performance desktop POS and real-time inventory configuratio
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/Smart-Retail-POS-System.git](https://github.com/YOUR_GITHUB_USERNAME/Smart-Retail-POS-System.git)
+   git clone [https://github.com/TeDDyJM7/Smart-Retail-POS-System.git](https://github.com/YOUR_GITHUB_USERNAME/Smart-Retail-POS-System.git)
