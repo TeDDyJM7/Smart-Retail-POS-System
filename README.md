@@ -19,9 +19,9 @@ A lightweight, high-performance desktop POS and real-time inventory configuratio
 1. Clone the repository:
    ```bash
    git clone [https://github.com/TeDDyJM7/Smart-Retail-POS-System.git](https://github.com/YOUR_GITHUB_USERNAME/Smart-Retail-POS-System.git)
-Navigate into the folder:cd Smart-Retail-POS-System
-Install required libraries:pip install reportlab
-Initialize database and dummy stock items:python database.py
-Fire up the POS interface:python app.py
+Navigate into the folder:cd Smart-Retail-POS-System,
+Install required libraries:pip install reportlab,
+Initialize database and dummy stock items:python database.py,
+Fire up the POS interface:python app.py,
 
 Ty xD!!!
